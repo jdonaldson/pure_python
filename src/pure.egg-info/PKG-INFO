@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pure
+Version: 0.1.dev1+ge34abb6
+Summary: A tool to check the purity of Python methods
+Author-email: Justin Donaldson <jdonaldson@gmail.com>
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: astunparse
+Provides-Extra: dev
+Requires-Dist: pytest>=7.3.0; extra == "dev"
+Requires-Dist: black>=23.3.0; extra == "dev"
+Requires-Dist: isort>=5.12.0; extra == "dev"
+Requires-Dist: flake8>=6.0.0; extra == "dev"
+
+# pure python

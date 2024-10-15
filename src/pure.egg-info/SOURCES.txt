@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/pure/__init__.py
+src/pure/_version.py
+src/pure.egg-info/PKG-INFO
+src/pure.egg-info/SOURCES.txt
+src/pure.egg-info/dependency_links.txt
+src/pure.egg-info/requires.txt
+src/pure.egg-info/top_level.txt
